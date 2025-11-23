@@ -53,3 +53,8 @@ Zenodo. https://doi.org/10.5281/zenodo.17685410
 
 \subsection*{License}
 Released under the \textbf{MIT License}.
+
+f you use this work, please cite:
+
+Cosmic Thinker & ChatGPT (“Toko”). (2025). Testing a Siamese Interference Dark Sector with Triple Cosmological Falsification. Zenodo. https://doi.org/10.5281/zenodo.17685410
+
